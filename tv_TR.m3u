@@ -1,0 +1,676 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TURK ULUSAL ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="03)TR➾ ULUSAL",₪₪₪₪₪ [ TURK ULUSAL ] ₪₪₪₪₪
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/38.m3u8
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR: TRT 4K ( 4K cihaz destekler )" tvg-logo="https://seeklogo.com/images/T/trt-4k-logo-DAE8AAA2F4-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: TRT 4K ( 4K cihaz destekler )
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/39.m3u8
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR: TRT 4K (1080)" tvg-logo="https://seeklogo.com/images/T/trt-4k-logo-DAE8AAA2F4-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: TRT 4K (1080)
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9281.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="https://seeklogo.com/images/T/trt-1-logo-5D7793B032-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: TRT 1 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/40.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://seeklogo.com/images/T/trt-1-logo-5D7793B032-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: TRT 1 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/41.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 FHD" tvg-logo="https://i.hizliresim.com/bn1oqnh.png" group-title="03)TR➾ ULUSAL",TR: TRT 2 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/42.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR: TRT TURK FHD" tvg-logo="https://seeklogo.com/images/T/trt-turk-logo-14FADADA62-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: TRT TURK FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/65.m3u8
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://seeklogo.com/images/T/trt-avaz-logo-7D9FBD5D28-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: TRT AVAZ HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/66.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV FHD" tvg-logo="https://i.hizliresim.com/8vy1jbg.png" group-title="03)TR➾ ULUSAL",TR: ATV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/43.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://i.hizliresim.com/8vy1jbg.png" group-title="03)TR➾ ULUSAL",TR: ATV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/44.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV FHD" tvg-logo="https://seeklogo.com/images/S/show-tv-logo-C94ED60C82-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: SHOW TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/45.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://seeklogo.com/images/S/show-tv-logo-C94ED60C82-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: SHOW TV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/46.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV FHD" tvg-logo="https://seeklogo.com/images/S/star-tv-logo-F9543018FF-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: STAR TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/48.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://seeklogo.com/images/S/star-tv-logo-F9543018FF-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: STAR TV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/49.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="03)TR➾ ULUSAL",TR: FOX TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/50.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png" group-title="03)TR➾ ULUSAL",TR: FOX TV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/51.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D FHD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: KANAL D FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/52.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: KANAL D HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/53.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 FHD" tvg-logo="https://i.hizliresim.com/rb547iv.png" group-title="03)TR➾ ULUSAL",TR: TV8 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/54.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 HD" tvg-logo="https://i.hizliresim.com/rb547iv.png" group-title="03)TR➾ ULUSAL",TR: TV8 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/55.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8.5 FHD" tvg-logo="https://i.hizliresim.com/4x9hy1z.png" group-title="03)TR➾ ULUSAL",TR: TV8.5 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/56.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8.5 HD" tvg-logo="https://i.hizliresim.com/4x9hy1z.png" group-title="03)TR➾ ULUSAL",TR: TV8.5 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/57.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL7 FHD" tvg-logo="https://i.hizliresim.com/6es7t8a.png" group-title="03)TR➾ ULUSAL",TR: KANAL7 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/58.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL7 HD" tvg-logo="https://i.hizliresim.com/6es7t8a.png" group-title="03)TR➾ ULUSAL",TR: KANAL7 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 TV FHD" tvg-logo="https://i.hizliresim.com/3cu21f4.png" group-title="03)TR➾ ULUSAL",TR: A2 TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/60.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE2 FHD" tvg-logo="https://i.hizliresim.com/p15jntu.png" group-title="03)TR➾ ULUSAL",TR: TEVE2 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK EU" tvg-logo="https://i.hizliresim.com/bjdv9kc.png" group-title="03)TR➾ ULUSAL",TR: SHOW TURK EU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/21442.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV EU" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",TR: ATV EU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/21443.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR EU" tvg-logo="https://i.hizliresim.com/h36hs2e.png" group-title="03)TR➾ ULUSAL",TR: STAR EU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/21444.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D EU" tvg-logo="https://i.hizliresim.com/gm4o8nd.png" group-title="03)TR➾ ULUSAL",TR: KANAL D EU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/21445.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 INT EU" tvg-logo="https://i.hizliresim.com/oh4f8m2.png" group-title="03)TR➾ ULUSAL",TR: TV 8 INT EU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/21446.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: SHOW MAX HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/33566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png" group-title="03)TR➾ ULUSAL",TR: FLASH TV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/52724.m3u8
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TRT EBA ILKOKUL HD" tvg-logo="https://seeklogo.com/images/E/eba-egitim-bilisim-agi-logo-DF98FB6B41-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TRT EBA ILKOKUL HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9282.m3u8
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA ORTAOKUL HD" tvg-logo="https://seeklogo.com/images/E/eba-egitim-bilisim-agi-logo-DF98FB6B41-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TRT EBA ORTAOKUL HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9283.m3u8
+#EXTINF:-1 tvg-id="trtebatvlise.tr" tvg-name="TRT EBA LISE HD" tvg-logo="https://seeklogo.com/images/E/eba-egitim-bilisim-agi-logo-DF98FB6B41-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TRT EBA LISE HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ YEREL KANALLAR ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="05)TR➾ YEREL",₪₪₪₪₪ [ YEREL KANALLAR ] ₪₪₪₪₪
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV" tvg-logo="" group-title="11)TR➾ DINI KANALLAR",TR: SEMERKAND TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOST TV" tvg-logo="" group-title="11)TR➾ DINI KANALLAR",TR: DOST TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KABE TV" tvg-logo="" group-title="11)TR➾ DINI KANALLAR",TR: KABE TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUDUS TV" tvg-logo="" group-title="11)TR➾ DINI KANALLAR",TR: KUDUS TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LALEGUL TV" tvg-logo="" group-title="11)TR➾ DINI KANALLAR",TR: LALEGUL TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19462.m3u8
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TR: DIYANET TV" tvg-logo="" group-title="11)TR➾ DINI KANALLAR",TR: DIYANET TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- VIZYON 58 TV SIVAS" tvg-logo="" group-title="05)TR➾ YEREL",TRY- VIZYON 58 TV SIVAS
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- TV KAYSERI" tvg-logo="" group-title="05)TR➾ YEREL",TRY- TV KAYSERI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- TV A ADANA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- TV A ADANA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- TV 41 KOCAELI" tvg-logo="" group-title="05)TR➾ YEREL",TRY- TV 41 KOCAELI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- TV 1 KAYSERI" tvg-logo="" group-title="05)TR➾ YEREL",TRY- TV 1 KAYSERI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- BRT TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- BRT TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- TON TV CANAKKALE" tvg-logo="[]" group-title="05)TR➾ YEREL",TRY- TON TV CANAKKALE
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- UZAY HABER" tvg-logo="" group-title="05)TR➾ YEREL",TRY- UZAY HABER
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- YILDIZ EN TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- YILDIZ EN TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- PAMUKKALE TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- PAMUKKALE TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL V ANTALYA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL V ANTALYA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KOZA TV ADANA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KOZA TV ADANA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KON TV KONYA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KON TV KONYA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL URFA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL URFA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- EDESSA TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- EDESSA TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL 58 SIVAS" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL 58 SIVAS
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL 43 KUTAHYA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL 43 KUTAHYA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL 42  KONYA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL 42  KONYA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL 33 (Mersin)" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL 33 (Mersin)
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KANAL 3 ISPARTA" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KANAL 3 ISPARTA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- HRT AKDENIZ TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- HRT AKDENIZ TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- GUNEYDOGU TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- GUNEYDOGU TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- DRT DENIZLI TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- DRT DENIZLI TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- CAY TV RIZE" tvg-logo="" group-title="05)TR➾ YEREL",TRY- CAY TV RIZE
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- AKSU TV (K.maras)" tvg-logo="" group-title="05)TR➾ YEREL",TRY- AKSU TV (K.maras)
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- A VUSLAT TV (Malatya)" tvg-logo="" group-title="05)TR➾ YEREL",TRY- A VUSLAT TV (Malatya)
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- ES TV ESKISEHIR" tvg-logo="[" group-title="05)TR➾ YEREL",TRY- ES TV ESKISEHIR
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- MAVI KARADENIZ TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- MAVI KARADENIZ TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- AKIT TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- AKIT TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/17998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- KIBRIS TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- KIBRIS TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRY- RUMELI TV" tvg-logo="" group-title="05)TR➾ YEREL",TRY- RUMELI TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: TRT 1 Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: ATV Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: SHOW TV Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: KANAL D Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: STAR TV Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: FOX TV Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: TV 8 Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 Hevc" tvg-logo="" group-title="06)TR➾ HEVC",TR: TV 8.5 Hevc
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: BEYAZ TV HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: KANAL 7 HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TEVE 2 HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: A2 HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TV 100 HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 360 HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: Kanal 360 HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TRT TURK HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TRT WORLD HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: A HABER HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TÜRK HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: CNN TÜRK HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TRT HABER HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: BLOOMBERG HT HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: HABER TURK HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HABER HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: NTV HABER HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TGRT HABER HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TRT SPOR HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: TRT SPOR YILDIZ HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: SPOR SMART HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: FOX CRIME HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: DMAX HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY HEVC" tvg-logo="" group-title="06)TR➾ HEVC",TR: VIASAT HISTORY HEVC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT 1 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: ATV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: Show TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: STAR TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: KANAL D RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: KANAL 7 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FOX TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TV 8 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 5 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TV 8 5 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BRT 1 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BRT 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: teve2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: teve2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: 360 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BEYAZ TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: A PARA RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: A2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NTV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TÜRK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: CNN TÜRK RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: HABERTURK RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: 24 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: A HABER RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT HABER RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT TURK RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT KURDI RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT KURDI RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT WORLD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT MUZIK RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SEMERKAND RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERGHT RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BLOOMBERGHT RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: A NEWS RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FX HD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FOX CRIME HD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FILMBOX RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 1001 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA 1001 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 1002 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA 1002 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AKSİYON RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AKSİYON RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AKSİYON 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AKSİYON 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AİLE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AİLE RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AİLE 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AİLE 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA KOMEDİ RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA KOMEDİ RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA KOMEDİ 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA KOMEDİ 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE CLASSIC RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: MOVIE CLASSIC RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TÜRK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: MOVIE TÜRK RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİ PREMIUM RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DİZİ PREMIUM RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİSMART MAX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DİZİSMART MAX RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHTBOX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FIGHTBOX RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: EUROSPORT 1 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: EUROSPORT 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N SPORTS HABER RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: b**N SPORTS HABER RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TIVIBU SPOR RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT SPOR YILDIZ RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: A SPOR RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT SPOR RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: S SPORT RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: S SPORT2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORSMART RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SPORSMART RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORSMART 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SPORSMART 2 RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NBA TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT COCUK RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JUNIOR RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISNEY JUNIOR RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÇOCUKSMART RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: ÇOCUKSMART RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BABY TV RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NAT GEO HD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NAT GEO WILD HD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATURE ESCAPE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NATURE ESCAPE RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: TRT BELGESEL RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DA VINCI LEARNING RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DOCUBOX RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: VIASAT HISTORY RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KITCHEN HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: 24 KITCHEN HD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BOOMERANG HD RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISCOVERY CHANNEL RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISCOVERY SCIENCE RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: LOVE NATURE RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: OUTDOOR RAW
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/59947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV100 FHD" tvg-logo="https://i.hizliresim.com/bb769n2.png" group-title="04)TR➾ HABER",TR: TV100 FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63.m3u8
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ULKE TV FHD" tvg-logo="https://i.hizliresim.com/ji2puto.png" group-title="04)TR➾ HABER",TR: ULKE TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/62.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TR: TVNET FHD" tvg-logo="https://i.hizliresim.com/qixre4t.png" group-title="04)TR➾ HABER",TR: TVNET FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/64.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER FHD" tvg-logo="https://seeklogo.com/images/T/trt-haber-logo-BD6903B6DB-seeklogo.com.png" group-title="04)TR➾ HABER",TR: TRT HABER FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/67.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://seeklogo.com/images/T/trt-haber-logo-BD6903B6DB-seeklogo.com.png" group-title="04)TR➾ HABER",TR: TRT HABER HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/68.m3u8
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://seeklogo.com/images/T/tgrt-haber-logo-DCCDB157BD-seeklogo.com.png" group-title="04)TR➾ HABER",TR: TGRT HABER HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/69.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV FHD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/ntv-logo.png" group-title="04)TR➾ HABER",TR: NTV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/71.m3u8
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK FHD" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" group-title="04)TR➾ HABER",TR: HABER TURK FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/73.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="https://i.hizliresim.com/fmuubch.png" group-title="04)TR➾ HABER",TR: HABER GLOBAL FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/74.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNNTURK FHD" tvg-logo="https://i.hizliresim.com/3h69qf0.png" group-title="04)TR➾ HABER",TR: CNNTURK FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/75.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV FHD" tvg-logo="https://seeklogo.com/images/B/beyaz-tv-logo-A2FCBFD73E-seeklogo.com.png" group-title="04)TR➾ HABER",TR: BEYAZ TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA FHD" tvg-logo="https://i.hizliresim.com/izktirg.png" group-title="04)TR➾ HABER",TR: A PARA FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VATAN TV" tvg-logo="https://i.hizliresim.com/l6w9d95.png" group-title="04)TR➾ HABER",TR: VATAN TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/78.m3u8
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV" tvg-logo="https://i.hizliresim.com/qnf61un.png" group-title="04)TR➾ HABER",TR: HALK TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV HD" tvg-logo="https://tr.m.wikipedia.org/wiki/Dosya:S%C3%B6zc%C3%BC_TV_Logosu.jpg" group-title="04)TR➾ HABER",TR: SOZCU TV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/90984.m3u8
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL KANAL" tvg-logo="https://i.hizliresim.com/8k7mnsk.png" group-title="04)TR➾ HABER",TR: ULUSAL KANAL
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1 HD" tvg-logo="https://seeklogo.com/images/T/tele1-kanali-logo-D4DE153D5D-seeklogo.com.png" group-title="04)TR➾ HABER",TR: TELE 1 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4775.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 TV FHD" tvg-logo="https://i.hizliresim.com/815ysu8.png" group-title="04)TR➾ HABER",TR: 360 TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/82.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER FHD" tvg-logo="https://i.hizliresim.com/4kc8qn6.png" group-title="04)TR➾ HABER",TR: A HABER FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/81.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 24 HABER FHD" tvg-logo="https://seeklogo.com/images/1/24-tv-logo-33D3C57D1B-seeklogo.com.png" group-title="04)TR➾ HABER",TR: 24 HABER FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/83.m3u8
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: BLOOMBERG FHD" tvg-logo="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" group-title="04)TR➾ HABER",TR: BLOOMBERG FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/84.m3u8
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="TR: EKOTURK" tvg-logo="https://i.hizliresim.com/hyqkzat.png" group-title="04)TR➾ HABER",TR: EKOTURK
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="https://i.hizliresim.com/48s464i.png" group-title="04)TR➾ HABER",TR: CEM TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/87.m3u8
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="TR: BENGU TURK" tvg-logo="http://89.105.197.2/logo/benguturk.jpg" group-title="04)TR➾ HABER",TR: BENGU TURK
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV FHD" tvg-logo="https://i.hizliresim.com/cqlom02.png" group-title="04)TR➾ HABER",TR: KRT TV FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TR SINEMA ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="10)TR➾ SINEMA & EGLENCE",₪₪₪₪₪ [ TR SINEMA ] ₪₪₪₪₪
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://i.hizliresim.com/kwzyklp.png" group-title="10)TR➾ SINEMA & EGLENCE",EPIC DRAMA HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX 4K UHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/228832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HD" tvg-logo="https://i.hizliresim.com/42qw072.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/18783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX EXTRA HD" tvg-logo="https://i.hizliresim.com/8jlr4qw.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX EXTRA HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/33954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ACTION
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX HORROR
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX BILIMKURGU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX FANTASTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX COMEDY
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ARTHOUSE HD" tvg-logo="https://i.hizliresim.com/mz5fz3i.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ARTHOUSE HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/33955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX FAMILY
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX ROMANTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/29069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA" tvg-logo="https://i.hizliresim.com/8pzbdgl.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX DRAMA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON INFO" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON INFO
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 1" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 1
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 2" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 2
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 3" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 3
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 4" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 4
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 5" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 5
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 6" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 6
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 7" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 7
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 8" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 8
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 9" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 9
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 10" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 10
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 11" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 11
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 12" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 12
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 13" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 13
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 14" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 14
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 15" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 15
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 16" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 16
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 17" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 17
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 18" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 18
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 19" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 19
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SINEVIZYON 20" tvg-logo="https://i.hizliresim.com/qu5ihde.png" group-title="10)TR➾ SINEMA & EGLENCE",FILMBOX SINEVIZYON 20
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/8564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="https://i.hizliresim.com/93024bi.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Premier HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="https://i.hizliresim.com/qfpc25k.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX PLUS HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="https://i.hizliresim.com/q1e8v76.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX GOLD HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="https://i.hizliresim.com/nk64jvm.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX TURK HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="https://i.hizliresim.com/qepb776.png" group-title="10)TR➾ SINEMA & EGLENCE",TR:  MAX Aksiyon HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="https://i.hizliresim.com/htgpjc4.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Aksiyon 2 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="https://i.hizliresim.com/pemd0o2.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="https://i.hizliresim.com/4udck3r.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 2 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="https://i.hizliresim.com/hddkjh4.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 3 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="https://i.hizliresim.com/dsfyn9h.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Vizyon 4 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="https://i.hizliresim.com/t6aen7r.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Orjinal HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="https://i.hizliresim.com/hd7vy4j.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Western HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="https://i.hizliresim.com/10qmepy.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX Hint Filimleri
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="https://i.hizliresim.com/34k42nz.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX 007 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="https://i.hizliresim.com/q1i97ay.png" group-title="10)TR➾ SINEMA & EGLENCE",TR: MAX STAR WARS HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/63043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK 4K ULTRA HD" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK 4K ULTRA HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK VIZYON" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK VIZYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ACTION" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK ACTION
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK KORKU" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK KORKU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK GERILIM" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK GERILIM
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/3249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK BILIMKURGU" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK BILIMKURGU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/3252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK YERLI" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/3257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK MACERA" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK MACERA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK WESTERN" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK WESTERN
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/3250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK NETFLIX" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK NETFLIX
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/3254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK DRAMA" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK DRAMA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/3255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK COMEDY" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK COMEDY
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK FANTASTIC" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK FANTASTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK ORJINAL" tvg-logo="https://i.hizliresim.com/q54u6j9.png" group-title="10)TR➾ SINEMA & EGLENCE",PROTURK ORJINAL
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX AKSIYON" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX AKSIYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX FANTASTIC" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX FANTASTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX KORKU" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX KORKU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX YERLI" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARENABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/tf8lqxp.png" group-title="10)TR➾ SINEMA & EGLENCE",ARENABOX ANIMASYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX VIZYON" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX VIZYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX GOLD" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX GOLD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ACTION" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX ACTION
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX YERLI" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX KORKU" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX KORKU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX BILIMKURGU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX FANTASTIC" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX FANTASTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX COMEDY" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX COMEDY
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX NETFLIX" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX NETFLIX
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX ANIMASYON" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX ANIMASYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGABOX WESTERN" tvg-logo="https://i.hizliresim.com/8mjig3n.png" group-title="10)TR➾ SINEMA & EGLENCE",MEGABOX WESTERN
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL VIZYON" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL VIZYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL ACTION" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL ACTION
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL FANTASTIC" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL FANTASTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL KORKU" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL KORKU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL YERLI" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL DRAM" tvg-logo="https://i.hizliresim.com/b802b13.png" group-title="10)TR➾ SINEMA & EGLENCE",GLOBAL DRAM
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX BILIMKURGU" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX BILIMKURGU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX MACERA" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX MACERA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX DRAM" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX DRAM
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX YERLI" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KINGBOX COMEDY" tvg-logo="https://i.hizliresim.com/34fei2l.png" group-title="10)TR➾ SINEMA & EGLENCE",KINGBOX COMEDY
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/20064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX ACTION" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX ACTION
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX FANTASTIC" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX FANTASTIC
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX KORKU" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX KORKU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX SAVAS" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX SAVAS
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX MACERA" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX MACERA
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX YERLI" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX GERILIM" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX GERILIM
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 1" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 1
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 2" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 2
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 3" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 3
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 4" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 4
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KORKUBOX 5" tvg-logo="https://i.hizliresim.com/tldb0gc.png" group-title="10)TR➾ SINEMA & EGLENCE",KORKUBOX 5
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/22407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX VIZYON" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="10)TR➾ SINEMA & EGLENCE",REALBOX VIZYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/19278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REALBOX KORKU" tvg-logo="https://i.hizliresim.com/pa1wve0.png" group-title="10)TR➾ SINEMA & EGLENCE",REALBOX KORKU
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yarının İşi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg" group-title="VOD-BEIN-TOD FILMLER",Yarının İşi (2023)
+http://babanin.xyz:8080/movie/volkanisik/rrkRasR/220956.mkv
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://i.hizliresim.com/n5u19vr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: FX FHD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: BEIN BOX OFFICE 1
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/67359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: BEIN BOX OFFICE 2
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/67360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: BEIN BOX OFFICE 3
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/67361.m3u8
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN MOVIES TURK HD" tvg-logo="https://i.hizliresim.com/btb1lgw.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES TURK HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/170.m3u8
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN MOVIES PREMIERE HD" tvg-logo="https://i.hizliresim.com/n2g6gbj.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES PREMIERE HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/172.m3u8
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN MOVIES PREMIERE 2 HD" tvg-logo="https://i.hizliresim.com/2kb23i0.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES PREMIERE 2 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/173.m3u8
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="https://i.hizliresim.com/8eo4b4i.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN MOVIES STARS HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/174.m3u8
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: beIN SERIES 1 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 1 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SERIES 2 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 2 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/95796.m3u8
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: beIN SERIES 3 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 3 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/178.m3u8
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: beIN SERIES 4 HD" tvg-logo="https://seeklogo.com/images/B/bein-series-logo-C81DCA7F67-seeklogo.com.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: beIN SERIES 4 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/180.m3u8
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVIE SMART TURK HD" tvg-logo="https://i.hizliresim.com/p8w90nq.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: MOVIE SMART TURK HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/184.m3u8
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVIE SMART CLASSIC HD" tvg-logo="http://89.105.197.2/logo/moviesmartclassic.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: MOVIE SMART CLASSIC HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/192.m3u8
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://i.hizliresim.com/a3dc27k.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: DIZI SMART PREMIUM HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/194.m3u8
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="https://i.hizliresim.com/sf63umv.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: DIZI SMART MAX HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/195.m3u8
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV" tvg-logo="https://i.hizliresim.com/kaxajen.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/196.m3u8
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2" tvg-logo="https://i.hizliresim.com/qtiul2q.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 2
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/29068.m3u8
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI" tvg-logo="https://i.hizliresim.com/6zvi7p1.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV YERLI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/197.m3u8
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2" tvg-logo="https://i.hizliresim.com/pf5bwfr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV YERLI 2
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/18781.m3u8
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo="https://i.hizliresim.com/ozjwqy1.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV KOMEDI
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/198.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV AKSIYON" tvg-logo="https://i.hizliresim.com/dopp4ya.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV AKSIYON
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/199.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV AKSIYON 2" tvg-logo="https://i.hizliresim.com/14dh2a5.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV AKSIYON 2
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/9232.m3u8
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV AILE" tvg-logo="https://i.hizliresim.com/bad9ukj.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV AILE
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/200.m3u8
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001" tvg-logo="https://i.hizliresim.com/3sm3jrv.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1001
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/201.m3u8
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002" tvg-logo="https://i.hizliresim.com/fs1gpzn.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1002
