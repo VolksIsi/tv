@@ -1,5 +1,5 @@
-xyz:8080/movie/volkanisik/rrkRasR/117660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ ALMAN KANALLARI ] ₪₪₪₪₪" tvg-logo="" group-title="DE➾ GERMANY",₪₪₪₪₪ [ ALMAN KANALLARI ] ₪₪₪₪₪
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Germany" tvg-logo="" group-title="DE➾ GERMANY",Germany
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/463.m3u8
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="" group-title="DE➾ GERMANY",SAT 1 HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4896.m3u8
