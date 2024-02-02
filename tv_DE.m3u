@@ -15,6 +15,12 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/55731.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA FAMILY HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/55738.m3u8
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="KINOWELT TV" tvg-logo="" group-title="DE➾ GERMANY",KINOWELT TV
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4917.m3u8
+#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV HD" tvg-logo="" group-title="DE➾ GERMANY",UNIVERSAL TV HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4921.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY HD" tvg-logo="" group-title="DE➾ GERMANY",SYFY HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY 1 HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY 1 HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4787.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY KRIMI HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY KRIMI HD
@@ -27,8 +33,6 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/55734.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/55735.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY REPLAY HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY REPLAY HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/55740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY HEIMAT KANAL" tvg-logo="" group-title="DE➾SKY CINEMA",SKY HEIMAT KANAL
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/55741.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 1 FULL HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY SELECT 1 FULL HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4806.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 2 FULL HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY SELECT 2 FULL HD
@@ -45,110 +49,44 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/4986.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4987.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SELECT 8 FULL HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY SELECT 8 FULL HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 1 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX SELECT 1 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 2 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX SELECT 2 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 3 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX SELECT 3 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 4 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX SELECT 4 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX SELECT 5 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX SELECT 5 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX Premiere HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX Premiere HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX STAR WARS HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX STAR WARS HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX 007 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX 007 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX KINO COLLECTION" tvg-logo="" group-title="DE➾SKY CINEMA",MAX KINO COLLECTION
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX KINO HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX KINO HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 2 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX KINO 2 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 3 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX KINO 3 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 4 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX KINO 4 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX KINO 5 HD" tvg-logo="" group-title="DE➾SKY CINEMA",MAX KINO 5 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 1 4K" tvg-logo="" group-title="DE➾SKY CINEMA",Max Select 1 4K
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 2 4K" tvg-logo="" group-title="DE➾SKY CINEMA",Max Select 2 4K
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 3 4K" tvg-logo="" group-title="DE➾SKY CINEMA",Max Select 3 4K
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Max Select 4 4K" tvg-logo="" group-title="DE➾SKY CINEMA",Max Select 4 4K
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/188633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 1 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 1 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 2 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 2 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 3 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 3 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 4 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 4 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 5 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 5 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 6 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 6 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 7 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 7 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 8 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 8 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/30718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 9 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 9 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/31055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: STERN FILME 10 HD" tvg-logo="" group-title="DE➾SKY CINEMA",DE: STERN FILME 10 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/31056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY ACTION" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY ACTION
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY HORROR" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY HORROR
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY VISION" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY VISION
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY COMEDY" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY COMEDY
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY DRAMA" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY DRAMA
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY FAMILE" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY FAMILE
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY LIEBESFILM" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY LIEBESFILM
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY SCIENCE" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY SCIENCE
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY THRILLER" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY THRILLER
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/20031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY NETFLIX" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY NETFLIX
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/55761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY AMAZON PRIME" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY AMAZON PRIME
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/55760.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY DISNEY+" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY DISNEY+
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/55765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KRIEGS" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY KRIEGS
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/55762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 1" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY BESONDERE 1
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 2" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY BESONDERE 2
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 3" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY BESONDERE 3
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 4" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY BESONDERE 4
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY BESONDERE 5" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY BESONDERE 5
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONİG 1" tvg-logo="[]" group-title="DE➾SKY CINEMA",GERMANY KONİG 1
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONİG 2" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY KONİG 2
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONİG 3" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY KONİG 3
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONİG 4" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY KONİG 4
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONİG 5" tvg-logo="" group-title="DE➾SKY CINEMA",GERMANY KONİG 5
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/33794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONİG 6" tvg-logo="[]" group-title="DE➾SKY CINEMA",GERMANY KONİG 6
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/216.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HD" tvg-logo="" group-title="DE➾ GERMANY",DAS ERSTE HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4910.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="" group-title="DE➾ GERMANY",ZDF HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4925.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE HD" tvg-logo="" group-title="DE➾ GERMANY",ARTE HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4914.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="" group-title="DE➾ GERMANY",WDR HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4926.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR BW HD" tvg-logo="" group-title="DE➾ GERMANY",SWR BW HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4928.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3 SAT HD" tvg-logo="" group-title="DE➾ GERMANY",3 SAT HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4919.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD" tvg-logo="" group-title="DE➾ GERMANY",MDR HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4943.m3u8v
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="" group-title="DE➾ GERMANY",NDR HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4935.m3u8
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD ALPHA HD" tvg-logo="" group-title="DE➾DOCUMENTARY  ",ARD ALPHA HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4956.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO HD" tvg-logo="" group-title="DE➾ GERMANY",ZDF NEO HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4923.m3u8
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF INFO HD" tvg-logo="" group-title="DE➾ GERMANY",ZDF INFO HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4924.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN HD" tvg-logo="" group-title="DE➾ GERMANY",PROSIEBEN HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4906.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HD" tvg-logo="" group-title="DE➾ GERMANY",KABEL EINS HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4909.m3u8
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="KABEL EINS CLASSICS" tvg-logo="" group-title="DE➾ GERMANY",KABEL EINS CLASSICS
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4936.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL II HD" tvg-logo="" group-title="DE➾ GERMANY",RTL II HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4901.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="" group-title="DE➾ GERMANY",TELE 5 HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4927.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TNT SERIE HD" tvg-logo="" group-title="DE➾ GERMANY",TNT SERIE HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4911.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TNT FILM HD" tvg-logo="" group-title="DE➾ GERMANY",TNT FILM HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4912.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="WARNER COMEDY HD" tvg-logo="" group-title="DE➾ GERMANY",WARNER COMEDY HD
+http://babanin.xyz:8080/live/volkanisik/rrkRasR/4913.m3u8
 #EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="" group-title="DE➾ GERMANY",SAT 1 HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4896.m3u8
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HD" tvg-logo="" group-title="DE➾ GERMANY",SAT 1 GOLD HD
@@ -159,8 +97,6 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/4898.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4899.m3u8
 #EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="" group-title="DE➾ GERMANY",RTL HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4900.m3u8
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL II HD" tvg-logo="" group-title="DE➾ GERMANY",RTL II HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4901.m3u8
 #EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTL PLUS" tvg-logo="" group-title="DE➾ GERMANY",RTL PLUS
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4902.m3u8
 #EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL LIVING HD" tvg-logo="" group-title="DE➾ GERMANY",RTL LIVING HD
@@ -169,52 +105,18 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/4903.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4904.m3u8
 #EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL PASSION HD" tvg-logo="" group-title="DE➾ GERMANY",RTL PASSION HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4905.m3u8
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN HD" tvg-logo="" group-title="DE➾ GERMANY",PROSIEBEN HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4906.m3u8
 #EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="PROSIEBEN" tvg-logo="" group-title="DE➾ GERMANY",PROSIEBEN
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4907.m3u8
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PRO7 MAXX FHD" tvg-logo="" group-title="DE➾ GERMANY",PRO7 MAXX FHD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/33106.m3u8
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PRO7 MAXX HD" tvg-logo="" group-title="DE➾ GERMANY",PRO7 MAXX HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4908.m3u8
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HD" tvg-logo="" group-title="DE➾ GERMANY",KABEL EINS HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4909.m3u8
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HD" tvg-logo="" group-title="DE➾ GERMANY",DAS ERSTE HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4910.m3u8
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TNT SERIE HD" tvg-logo="" group-title="DE➾ GERMANY",TNT SERIE HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4911.m3u8
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="TNT FILM HD" tvg-logo="" group-title="DE➾ GERMANY",TNT FILM HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4912.m3u8
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="WARNER COMEDY HD" tvg-logo="" group-title="DE➾ GERMANY",WARNER COMEDY HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4913.m3u8
-#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE HD" tvg-logo="" group-title="DE➾ GERMANY",ARTE HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4914.m3u8
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY HD" tvg-logo="" group-title="DE➾ GERMANY",SYFY HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4915.m3u8
 #EXTINF:-1 tvg-id="romance.de" tvg-name="ROMANCE TV" tvg-logo="" group-title="DE➾ GERMANY",ROMANCE TV
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4916.m3u8
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="KINOWELT TV" tvg-logo="" group-title="DE➾ GERMANY",KINOWELT TV
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4917.m3u8
 #EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="" group-title="DE➾ GERMANY",VOX HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4918.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3 SAT HD" tvg-logo="" group-title="DE➾ GERMANY",3 SAT HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4919.m3u8
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD" tvg-logo="" group-title="DE➾ GERMANY",NITRO HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4920.m3u8
-#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV HD" tvg-logo="" group-title="DE➾ GERMANY",UNIVERSAL TV HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4921.m3u8
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO HD" tvg-logo="" group-title="DE➾ GERMANY",ZDF NEO HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4923.m3u8
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF INFO HD" tvg-logo="" group-title="DE➾ GERMANY",ZDF INFO HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4924.m3u8
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="" group-title="DE➾ GERMANY",ZDF HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4925.m3u8
-#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="" group-title="DE➾ GERMANY",WDR HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4926.m3u8
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="" group-title="DE➾ GERMANY",TELE 5 HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4927.m3u8
-#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR BW HD" tvg-logo="" group-title="DE➾ GERMANY",SWR BW HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4928.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HD" tvg-logo="" group-title="DE➾ GERMANY",SIXX HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SERVUS TV HD" tvg-logo="" group-title="DE➾ GERMANY",SERVUS TV HD
@@ -223,10 +125,6 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/4931.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4932.m3u8
 #EXTINF:-1 tvg-id="phoenix.de" tvg-name="PHOENIX HD" tvg-logo="" group-title="DE➾ GERMANY",PHOENIX HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4933.m3u8
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="" group-title="DE➾ GERMANY",NDR HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4935.m3u8
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="KABEL EINS CLASSICS" tvg-logo="" group-title="DE➾ GERMANY",KABEL EINS CLASSICS
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4936.m3u8
 #EXTINF:-1 tvg-id="fox.de" tvg-name="FOX TV DE" tvg-logo="" group-title="DE➾ GERMANY",FOX TV DE
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4937.m3u8
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL VIVA" tvg-logo="" group-title="DE➾ GERMANY",COMEDY CENTRAL VIVA
@@ -235,8 +133,6 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/4938.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4939.m3u8
 #EXTINF:-1 tvg-id="tvberlin.de" tvg-name="RBB BERLIN HD" tvg-logo="" group-title="DE➾ GERMANY",RBB BERLIN HD
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4941.m3u8
-#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD" tvg-logo="" group-title="DE➾ GERMANY",MDR HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4943.m3u8
 #EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX DE" tvg-logo="" group-title="DE➾DOCUMENTARY  ",DMAX DE
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4944.m3u8
 #EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC DE" tvg-logo="" group-title="DE➾DOCUMENTARY  ",TLC DE
@@ -261,8 +157,6 @@ http://babanin.xyz:8080/live/volkanisik/rrkRasR/4953.m3u8
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4954.m3u8
 #EXTINF:-1 tvg-id="n24doku.de" tvg-name="N24 DOKU" tvg-logo="" group-title="DE➾DOCUMENTARY  ",N24 DOKU
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/4955.m3u8
-#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD ALPHA HD" tvg-logo="" group-title="DE➾DOCUMENTARY  ",ARD ALPHA HD
-http://babanin.xyz:8080/live/volkanisik/rrkRasR/4956.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GERMANY DOCUMENTARY" tvg-logo="" group-title="DE➾DOCUMENTARY  ",GERMANY DOCUMENTARY
 http://babanin.xyz:8080/live/volkanisik/rrkRasR/20025.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="TAGESSCHAU 24 HD" tvg-logo="" group-title="DE➾NACHRICTEN",TAGESSCHAU 24 HD
