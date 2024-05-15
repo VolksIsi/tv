@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN  HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA PREMIEREN  HD
 http://smartabm.xyz:80/live/volkanisik/rrkRasR/55737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIEREN 24 HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA PREMIEREN 24 HD
-http://smartabm.xyz:80/live/volkanisik/rrkRasR/55733.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA BEST OF HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA BEST OF HD
 http://smartabm.xyz:80/live/volkanisik/rrkRasR/55736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FUN HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA FUN HD
-http://smartabm.xyz:80/live/volkanisik/rrkRasR/55739.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA THRILLER HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA THRILLER HD
 http://smartabm.xyz:80/live/volkanisik/rrkRasR/55732.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA ACTION HD
 http://smartabm.xyz:80/live/volkanisik/rrkRasR/55731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPECIAL HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY SPECIAL HD
-http://smartabm.xyz:80/live/volkanisik/rrkRasR/4788.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="" group-title="DE➾SKY CINEMA",SKY CINEMA FAMILY HD
 http://smartabm.xyz:80/live/volkanisik/rrkRasR/55738.m3u8
 #EXTINF:-1 tvg-id="kinowelt.de" tvg-name="KINOWELT TV" tvg-logo="" group-title="DE➾ GERMANY",KINOWELT TV
